@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rea": {
+      "type": "stdio",
+      "command": "rea-mcp"
+    }
+  }
+}
